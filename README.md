@@ -1,4 +1,4 @@
-###📱 Digital Well-being Image Analyzer
+<h1>📱 Digital Well-being Image Analyzer</h1>
 
 Conscious Digital Living Through Content Analysis
 
